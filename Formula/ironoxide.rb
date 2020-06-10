@@ -1,8 +1,8 @@
 class Ironssh < Formula
   desc "Ironoxide C bindings and headers"
   homepage "https://ironcorelabs.com/"
-  url "https://github.com/IronCoreLabs/ironoxide-java/releases/download/v0.13.1/libironoxide_java-centos7.tar.gz"
-  sha256 "6b2f78244dd836afdf6da561fda73d16fe42477b7f4034b1aeb09d75f23aff47"
+  url "TODO"
+  sha256 "TODO"
 
   depends_on "pkg-config" => :build
 
