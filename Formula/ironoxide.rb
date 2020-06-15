@@ -1,4 +1,4 @@
-class Ironssh < Formula
+class Ironoxide < Formula
   desc "Ironoxide C bindings and headers"
   homepage "https://ironcorelabs.com/"
   url "TODO"
