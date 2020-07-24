@@ -1,8 +1,8 @@
 class Ironoxide < Formula
   desc "Ironoxide C bindings and headers"
   homepage "https://ironcorelabs.com/"
-  url "https://github.com/IronCoreLabs/ironoxide-swig-bindings/releases/download/v0.13.2/ironoxide-homebrew.tar.gz"
-  sha256 "7ece46acd8040e2f1459067425ee5fdca7723ca704cc1adf8fc94b6da6edf5f7"
+  url "https://github.com/IronCoreLabs/ironoxide-swig-bindings/releases/download/v0.14.3/ironoxide-homebrew.tar.gz"
+  sha256 "84882965f13373e3dd420393ea32f5c3df052b8210f50a974dc97d543cda73a8"
 
   depends_on "pkg-config" => :build
 
